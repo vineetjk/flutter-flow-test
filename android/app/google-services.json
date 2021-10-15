@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319903666721",
+    "firebase_url": "https://zippy-tiger-227312.firebaseio.com",
+    "project_id": "zippy-tiger-227312",
+    "storage_bucket": "zippy-tiger-227312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319903666721:android:11b4e33cf0aa0e3b6c4960",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319903666721-pslcm38ut72q098lr9sbevcv509j2mar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHMlJR3dou7s9X6C8hDp9xNAzRPmb2zAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319903666721-pslcm38ut72q098lr9sbevcv509j2mar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "319903666721-iu7savsqcl6jam95tqsu8s8va9iut0mm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
